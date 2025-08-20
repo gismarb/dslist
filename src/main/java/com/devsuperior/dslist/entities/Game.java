@@ -103,7 +103,7 @@ public class Game {
 		this.imgUrl = imgUrl;
 	}
 
-	public String getShortDescritpion() {
+	public String getShortDescription() {
 		return shortDescription;
 	}
 
